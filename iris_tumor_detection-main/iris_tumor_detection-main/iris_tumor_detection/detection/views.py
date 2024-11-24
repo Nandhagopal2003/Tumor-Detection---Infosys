@@ -47,6 +47,10 @@ def logout_view(request):
     messages.info(request, "You have been logged out.")  # Optional message
     return redirect('login')
 
+def about_view(request):
+    return render(request, 'detection/about.html')
+
+
 # Upload Image view for tumor detection
 def upload_image_view(request):
     if not request.user.is_authenticated:
