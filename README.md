@@ -29,7 +29,7 @@ This project focuses on developing a robust and efficient deep learning model to
 
 **3.Database** : Stores uploaded images, user information, and detection results for future reference or analysis.
 
-**Installation**
+# **Installation**
 **1 Installation** : -download code (or) clone the repsitory to your local machines
 
 **2 Dependencies** : -Install pip install -r requirements.txt -python manage.py makemigrations -python manage.py migrate
