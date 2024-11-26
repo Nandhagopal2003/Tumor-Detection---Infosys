@@ -1,4 +1,4 @@
-# **Iris_tumor_detection_using_cnn** <br />
+# **Iris_tumor_detection_using_cnn** 
 
 This project focuses on developing a robust and efficient deep learning model to detect iris tumors using Convolutional Neural Networks (CNN). Leveraging the power of neural networks, the model is designed to classify and identify the presence of tumors in iris images with high accuracy. The project aims to contribute towards advancements in medical imaging and diagnostics by offering a reliable tool for early detection and analysis.
 
