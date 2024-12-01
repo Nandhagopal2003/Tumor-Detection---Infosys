@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block title %}Detection Result{% endblock %}
+{% block content %}
+
+<h2>Detection Result</h2>
+<p>{{ result }}</p>
+<a href="{% url 'upload_image' %}">Try another image</a>
+{% endblock %}
+    

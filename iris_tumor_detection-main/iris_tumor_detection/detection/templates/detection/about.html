@@ -1,0 +1,62 @@
+{% extends 'base.html' %}
+{% block title %}About{% endblock %}
+
+{% block content %}
+<div class="about-container">
+    <h2>About Us</h2>
+    <p>
+        The Iris Tumour Detection project aims to build an AI-based system that helps in the early detection of iris tumors using Convolutional Neural Networks (CNN). 
+        The project involves processing medical images, training a CNN model for accurate tumor detection, and developing a user-friendly interface for users to interact with the system.
+    </p>
+
+    <p><strong>Key components of the project include:</strong></p>
+    <ul>
+        <li><strong>Image Processing:</strong> Preprocessing medical images by resizing, normalizing, and augmenting data to improve model accuracy.</li>
+        <li><strong>CNN Model:</strong> Designing, training, and evaluating a CNN to identify potential iris tumors in images.</li>
+        <li><strong>Web Interface:</strong> A frontend that allows users to easily upload images, view results, and interact with the system.</li>
+    </ul>
+
+    <p>
+        <li><strong>Registration Page and Login Page</strong>The Registration Page and Login Page are integral parts of the user management system. 
+        The Registration Page allows new users to create accounts by providing their username and password, ensuring secure access. 
+        The Login Page lets users log in using their credentials to access the system's tumor detection features.</li>
+    </p>
+
+    <p>
+        Together, these elements create a comprehensive and secure platform for users to diagnose iris tumors efficiently.
+    </p>
+</div>
+{% endblock %}
+
+<style>
+    .about-container {
+        width: 80%;
+        max-width: 700px;
+        margin: 2em auto;
+        padding: 1.5em;
+        background-color: rgba(255, 255, 255, 0.9);
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        color: #333;
+        text-align: justify;
+    }
+
+    .about-container h2 {
+        text-align: center;
+        color: rgb(32, 61, 111);
+        margin-bottom: 1.5em;
+    }
+
+    .about-container p {
+        margin-bottom: 2em;  /* Adds space below each paragraph */
+        line-height: 1.6;
+    }
+
+    .about-container ul {
+        margin-left: 2em;
+    }
+
+    .about-container ul li {
+        margin-bottom: 0.5em;
+    }
+</style>
