@@ -63,6 +63,6 @@ This project focuses on developing a robust and efficient deep learning model to
 **LOGGED OUT PAGE**
 ![Screenshot (8)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/8.jpg)
 **TUMOR IMAGE**
-![Screenshot (9)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/With%20Tumor.jpeg)**
+![Screenshot (9)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/With%20Tumor.jpeg)
 **NO TUMOR IMAGE**
 ![Screenshot (10)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/Without%20Tumor.jpeg)
