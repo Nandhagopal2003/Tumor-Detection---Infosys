@@ -49,16 +49,20 @@ This project focuses on developing a robust and efficient deep learning model to
 
 ![Screenshot (1)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/339bd9a7589fb04c0c2d37e0bfa0bc86e378fbc6/1.jpg)
 
-![Screenshot (2)]()
+![Screenshot (2)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/2.jpg)
 
-![Brain tumor detector - Google Chrome 25-11-2024 02_41_14](https://github.com/user-attachments/assets/06bd7bf9-71d8-4ef7-8996-96a6a67ff572)
+![Screenshot (3)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/3.jpg)
 
-![Screenshot (4)]()
+![Screenshot (4)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/4.jpg)
 
-![Screenshot (5)](https://github.com/user-attachments/assets/7a54239a-b006-4122-8752-5c380c102b41)
+![Screenshot (5)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/5.jpg)
 
-![Screenshot (6)](https://github.com/user-attachments/assets/b1f443e1-ebcf-4be8-867f-29ed690e1314)
+![Screenshot (6)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/6.jpg)
 
-![Screenshot (7)](https://github.com/user-attachments/assets/fea2c50b-2e24-4811-a155-97d11cb63c49)
+![Screenshot (7)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/7.jpg)
 
-![Screenshot (8)](https://github.com/user-attachments/assets/4f66f4bc-203e-4837-b710-3a761ec3e1ba)
+![Screenshot (8)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/8.jpg)
+
+![Screenshot (9)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/With%20Tumor.jpeg)
+
+![Screenshot (10)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/Without%20Tumor.jpeg)
