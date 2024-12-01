@@ -47,7 +47,7 @@ This project focuses on developing a robust and efficient deep learning model to
     
 ## Screenshots
 
-![Screenshot (1)]( )
+![Screenshot (1)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/339bd9a7589fb04c0c2d37e0bfa0bc86e378fbc6/1.jpg)
 
 ![Screenshot (2)]()
 
