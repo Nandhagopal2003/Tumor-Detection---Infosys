@@ -47,7 +47,7 @@ This project focuses on developing a robust and efficient deep learning model to
     
 ## Screenshots
 
-![Screenshot (1)](https://github.com/user-attachments/assets/a5e0636b-ab8d-4f20-96d0-9034fdfa735e)
+![Screenshot (1)](vlcsnap-2024-04-03-09h48m58s320.png)
 
 ![Screenshot (2)](https://github.com/user-attachments/assets/9bad2b6c-19c8-4d24-b34f-f4e021de0d5a)
 
