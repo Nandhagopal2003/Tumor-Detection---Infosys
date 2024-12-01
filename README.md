@@ -46,19 +46,19 @@ This project focuses on developing a robust and efficient deep learning model to
 
     
 ## Screenshots
-
+**LOGIN PAGE**
 ![Screenshot (1)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/339bd9a7589fb04c0c2d37e0bfa0bc86e378fbc6/1.jpg)
-
+**ABOUT PAGE**
 ![Screenshot (2)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/2.jpg)
-
+**REGISTER PAGE**
 ![Screenshot (3)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/3.jpg)
-
+**LOGIN PAGE With Username and Password**
 ![Screenshot (4)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/4.jpg)
-
+**UPLOAD IMAGE PAGE**
 ![Screenshot (5)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/5.jpg)
-
+**TUMOR DETECTED - RESULT PAGE**
 ![Screenshot (6)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/6.jpg)
-
+**NO TUMOR DETECTED - RESULT PAGE**
 ![Screenshot (7)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/7.jpg)
 
 ![Screenshot (8)](https://github.com/Nandhagopal2003/Tumor-Detection---Infosys/blob/3714660eb9ab43e0a67e9fa36b582b575a0e9170/8.jpg)
