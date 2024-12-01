@@ -47,13 +47,13 @@ This project focuses on developing a robust and efficient deep learning model to
     
 ## Screenshots
 
-![Screenshot (1)](vlcsnap-2024-04-03-09h48m58s320.png)
+![Screenshot (1)]( )
 
-![Screenshot (2)](https://github.com/user-attachments/assets/9bad2b6c-19c8-4d24-b34f-f4e021de0d5a)
+![Screenshot (2)]()
 
 ![Brain tumor detector - Google Chrome 25-11-2024 02_41_14](https://github.com/user-attachments/assets/06bd7bf9-71d8-4ef7-8996-96a6a67ff572)
 
-![Screenshot (4)](https://github.com/user-attachments/assets/3c0720a8-dcbb-4ffd-ab9c-b65916faa860)
+![Screenshot (4)]()
 
 ![Screenshot (5)](https://github.com/user-attachments/assets/7a54239a-b006-4122-8752-5c380c102b41)
 
